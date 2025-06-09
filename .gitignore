@@ -4,3 +4,14 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+#img 
+*.png
+*.jpg
+img/
+images/
+
+#videos
+*.mp4
+#log 
+*.log
