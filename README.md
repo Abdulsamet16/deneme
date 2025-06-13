@@ -1,7 +1,4 @@
-#Deneme
 
-##Alt bilgi
-fdsdffdsdsfdssdfds
-fddsfdfsfd
+Bu projede academy patika dev kursunda html de 2. ödevim 
 
-[lorem ipsum](http://google.com)
+[Google](http://google.com)
