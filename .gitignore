@@ -10,7 +10,7 @@
 *.jpg
 img/
 images/
-
+image/
 #videos
 *.mp4
 #log 
